@@ -127,7 +127,7 @@ Aspiring AI/ML Engineer 🚀
 ## ⭐ If you like this project
 Give it a ⭐ on GitHub and connect with me!
 
-📸 Output Screenshot
+## 📸 Output Screenshot
 
 ## Import Libraries
 <img width="1190" height="285" alt="image" src="https://github.com/user-attachments/assets/edffc9c2-0d7d-42a8-bf3e-c9b557923503" />
