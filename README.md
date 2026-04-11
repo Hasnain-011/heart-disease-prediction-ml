@@ -1,5 +1,12 @@
 # ❤️ Heart Disease Prediction using Machine Learning
 
+## 🏢 Internship Details
+This project was completed as part of my **AI/ML Engineering Internship Tasks** at **DevelopersHub Corporation**.
+
+🔗 Company Profile: https://linkedin.com/company/developershub-corporation/
+
+---
+
 ## 📌 Project Overview
 This project aims to predict whether a person is at risk of heart disease using machine learning techniques. The model is trained on medical attributes such as age, cholesterol levels, heart rate, and more to classify patients into two categories:
 - 0 → No Heart Disease  
